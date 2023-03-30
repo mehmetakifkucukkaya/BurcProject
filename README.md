@@ -1,16 +1,23 @@
-# flutter_application_1
+# Burç Uygulaması
 
-A new Flutter project.
+## Proje Detayı
 
-## Getting Started
+Flutter bilgilerimi pekiştirmek için yapmış olduğum bu proje burçlar hakkında bilgiler barındırıyor.
 
-This project is a starting point for a Flutter application.
+# Proje Görselleri
 
-A few resources to get you started if this is your first Flutter project:
+- ## Ana Sayfa
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Ana Sayfa](/Proje%20G%C3%B6rselleri/AnaSayfa.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Uygulama açıldığında kullanıcıları burçların listesi karşılıyor
+
+---
+
+- ## Burç Detay Sayfaları
+
+## ![Burç Detay](/Proje%20G%C3%B6rselleri/BurcDetay.png)
+
+![Burç Detay](/Proje%20G%C3%B6rselleri/BurcDetay2.png)
+
+### Burç ismine tıklanınca burç bilgilerinin açıldığı detay sayfası
